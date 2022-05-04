@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vikram
 - 👀 I’m interested in tech, tech products, programming languages
-- 🌱 I’m currently pursuing "advanced product managment" from XLRI
+- 🌱 I’m currently learning & experimenting Go, F#, Scala languages
+- 🌱 Recently completed "advanced product managment" from XLRI
 - 📫 How to reach me [vikram.srirangam@outlook.com](mailto://vikram.srirangam@outlook.com)
 
 <!---
